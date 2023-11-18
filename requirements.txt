@@ -1,0 +1,12 @@
+dm_control==1.0.1
+omegaconf==2.1.1
+torch==1.10.0
+torchvision==0.11.1
+pyglet==1.5.21
+gym==0.23.0
+git+https://github.com/denisyarats/dmc2gym.git
+imageio==2.13.1
+imageio-ffmpeg==0.4.5
+tensorboard==2.8.0
+termcolor==1.1.0
+
