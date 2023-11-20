@@ -1,6 +1,7 @@
-# dreamer-pytorch
-IFT6163 course project, PyTorch reimplementation of the [Dreamer](https://arxiv.org/abs/1912.01603) model.
-
+# Dreamer-pytorch
+PyTorch reimplementation of the [Dreamer](https://arxiv.org/abs/1912.01603) agent. 
+![animation1](figures/dreamer1.gif)
+![animation2](figures/dreamer2.gif)
 ## Dependencies
 
 Install the dependencies as follows:
