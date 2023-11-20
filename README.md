@@ -2,6 +2,10 @@
 PyTorch reimplementation of the [Dreamer](https://arxiv.org/abs/1912.01603) agent. 
 
 ![animation1](figures/dreamer_1.gif) 
+
+UP : Ground truth
+MID : Imagination
+DOWN : Difference
 ## Dependencies
 
 Install the dependencies as follows:
