@@ -1,7 +1,7 @@
 # Dreamer-pytorch
 PyTorch reimplementation of the [Dreamer](https://arxiv.org/abs/1912.01603) agent. 
-![animation1](figures/dreamer1.gif)
-![animation2](figures/dreamer2.gif)
+![animation1](figures/dreamer_1.gif)
+![animation2](figures/dreamer_2.gif)
 ## Dependencies
 
 Install the dependencies as follows:
