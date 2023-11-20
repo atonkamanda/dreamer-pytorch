@@ -3,9 +3,9 @@ PyTorch reimplementation of the [Dreamer](https://arxiv.org/abs/1912.01603) agen
 
 ![animation1](figures/dreamer_1.gif) 
 
-UP : Ground truth
-MID : Imagination
-DOWN : Difference
+**_UP_ : Ground truth
+_MID_ : Imagination
+_DOWN_ : Difference**
 ## Dependencies
 
 Install the dependencies as follows:
